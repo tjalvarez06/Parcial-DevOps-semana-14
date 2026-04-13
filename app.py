@@ -47,7 +47,7 @@ class HelloWorldHandler(BaseHTTPRequestHandler):
   <body>
     <main>
       <h1>Hola Mundo</h1>
-      <p>Aplicacion web ejecutandose en Docker.</p>
+      <p>Aplicacion web ejecutandose en Docker. By Tomas Alvarez</p>
     </main>
   </body>
 </html>
